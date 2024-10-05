@@ -1,0 +1,78 @@
+- Intro
+Preface,preface.pdf
+TOC,toc.pdf
+Dialogue,dialogue-threeeasy.pdf
+Introduction,intro.pdf
+
+- Virtualization
+Dialogue,dialogue-virtualization.pdf
+Processes,cpu-intro.pdf
+Process API,cpu-api.pdf
+Direct Execution,cpu-mechanisms.pdf
+CPU Scheduling,cpu-sched.pdf
+Multi-level Feedback,cpu-sched-mlfq.pdf
+Lottery Scheduling,cpu-sched-lottery.pdf
+Multi-CPU Scheduling,cpu-sched-multi.pdf
+Summary,cpu-dialogue.pdf
+Dialogue,dialogue-vm.pdf
+Address Spaces,vm-intro.pdf
+Memory API,vm-api.pdf
+Address Translation,vm-mechanism.pdf
+Segmentation,vm-segmentation.pdf
+Free Space Management,vm-freespace.pdf
+Introduction to Paging,vm-paging.pdf
+Translation Lookaside Buffers,vm-tlbs.pdf
+Advanced Page Tables,vm-smalltables.pdf
+Swapping: Mechanisms,vm-beyondphys.pdf
+Swapping: Policies,vm-beyondphys-policy.pdf
+Complete VM Systems,vm-complete.pdf
+Summary,vm-dialogue.pdf
+
+- Concurrency
+Dialogue,dialogue-concurrency.pdf
+Concurrency and Threads,threads-intro.pdf
+Thread API,threads-api.pdf
+Locks,threads-locks.pdf
+Locked Data Structures,threads-locks-usage.pdf
+Condition Variables,threads-cv.pdf
+Semaphores,threads-sema.pdf
+Concurrency Bugs,threads-bugs.pdf
+Event-based Concurrency,threads-events.pdf
+Summary,threads-dialogue.pdf
+
+- Persistence
+Dialogue,dialogue-persistence.pdf
+IO Devices,file-devices.pdf
+Hard Disk Drives,file-disks.pdf
+Redundant Disk Arrays (RAID),file-raid.pdf
+Files and Directories,file-intro.pdf
+File System Implementation,file-implementation.pdf
+Fast File System (FFS),file-ffs.pdf
+FSCK and Journaling,file-journaling.pdf
+Log-structured File System (LFS),file-lfs.pdf
+Flash-based SSDs,file-ssd.pdf
+Data Integrity and Protection,file-integrity.pdf
+Summary,file-dialogue.pdf
+Dialogue,dialogue-distribution.pdf
+Distributed Systems,dist-intro.pdf
+Network File System (NFS),dist-nfs.pdf
+Andrew File System (AFS),dist-afs.pdf
+Summary,dist-dialogue.pdf
+
+- Security
+Dialogue,dialogue-security.pdf
+Intro Security,security-intro.pdf
+Authentication,security-authentication.pdf
+Access Control,security-access.pdf
+Cryptography,security-crypto.pdf
+Distributed,security-distributed.pdf
+
+- Appendices
+Dialogue,dialogue-vmm.pdf
+Virtual Machines,vmm-intro.pdf
+Dialogue,dialogue-monitors.pdf
+Monitors,threads-monitors.pdf
+Dialogue,dialogue-labs.pdf
+Lab Tutorial,lab-tutorial.pdf
+Systems Labs,lab-projects-systems.pdf
+xv6 Labs,lab-projects-xv6.pdf

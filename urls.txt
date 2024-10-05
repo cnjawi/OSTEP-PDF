@@ -1,0 +1,67 @@
+Preface,preface.pdf
+Dialogue,dialogue-virtualization.pdf
+Dialogue,dialogue-vm.pdf
+Dialogue,dialogue-concurrency.pdf
+Dialogue,dialogue-persistence.pdf
+Dialogue,dialogue-security.pdf
+TOC,toc.pdf
+Processes,cpu-intro.pdf
+Address Spaces,vm-intro.pdf
+Concurrency and Threads,threads-intro.pdf
+I/O Devices,file-devices.pdf
+Intro Security,security-intro.pdf
+Dialogue,dialogue-threeeasy.pdf
+Process API,cpu-api.pdf
+Memory API,vm-api.pdf
+Thread API,threads-api.pdf
+Hard Disk Drives,file-disks.pdf
+Authentication,security-authentication.pdf
+Introduction,intro.pdf
+Direct Execution,cpu-mechanisms.pdf
+Address Translation,vm-mechanism.pdf
+Locks,threads-locks.pdf
+Redundant Disk Arrays (RAID),file-raid.pdf
+Access Control,security-access.pdf
+CPU Scheduling,cpu-sched.pdf
+Segmentation,vm-segmentation.pdf
+Locked Data Structures,threads-locks-usage.pdf
+Files and Directories,file-intro.pdf
+Cryptography,security-crypto.pdf
+Multi-level Feedback,cpu-sched-mlfq.pdf
+Free Space Management,vm-freespace.pdf
+Condition Variables,threads-cv.pdf
+File System Implementation,file-implementation.pdf
+Distributed,security-distributed.pdf
+Lottery Scheduling,cpu-sched-lottery.pdf
+Introduction to Paging,vm-paging.pdf
+Semaphores,threads-sema.pdf
+Fast File System (FFS),file-ffs.pdf
+Multi-CPU Scheduling,cpu-sched-multi.pdf
+Translation Lookaside Buffers,vm-tlbs.pdf
+Concurrency Bugs,threads-bugs.pdf
+FSCK and Journaling,file-journaling.pdf
+Summary,cpu-dialogue.pdf
+Advanced Page Tables,vm-smalltables.pdf
+Event-based Concurrency,threads-events.pdf
+Log-structured File System (LFS),file-lfs.pdf
+Dialogue,dialogue-vmm.pdf
+Swapping: Mechanisms,vm-beyondphys.pdf
+Summary,threads-dialogue.pdf
+Flash-based SSDs,file-ssd.pdf
+Virtual Machines,vmm-intro.pdf
+Swapping: Policies,vm-beyondphys-policy.pdf
+Data Integrity and Protection,file-integrity.pdf
+Dialogue,dialogue-monitors.pdf
+Complete VM Systems,vm-complete.pdf
+Summary,file-dialogue.pdf
+Monitors,threads-monitors.pdf
+Summary,vm-dialogue.pdf
+Dialogue,dialogue-distribution.pdf
+Dialogue,dialogue-labs.pdf
+Distributed Systems,dist-intro.pdf
+Lab Tutorial,lab-tutorial.pdf
+Network File System (NFS),dist-nfs.pdf
+Systems Labs,lab-projects-systems.pdf
+Andrew File System (AFS),dist-afs.pdf
+xv6 Labs,lab-projects-xv6.pdf
+Summary,dist-dialogue.pdf
